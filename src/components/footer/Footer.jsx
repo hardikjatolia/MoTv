@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                Introducing RePlay, your ultimate destination for movies and TV shows! With our comprehensive collection of information, reviews, and recommendations, we bring you the latest updates, behind-the-scenes insights, and exclusive interviews. From blockbusters to hidden gems, RePlay is your go-to platform for all things cinema and television. Immerse yourself in a world of entertainment with us!
+                Introducing MoTv, your ultimate destination for movies and TV shows! With our comprehensive collection of information, reviews, and recommendations, we bring you the latest updates, behind-the-scenes insights, and exclusive interviews. From blockbusters to hidden gems, MoTv is your go-to platform for all things cinema and television. Immerse yourself in a world of entertainment with us!
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
